@@ -1,0 +1,2 @@
+prit('goodbye')
+print('Goodbye')
